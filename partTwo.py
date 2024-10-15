@@ -12,6 +12,6 @@ def myst(val):
         print("Too Low")
     elif val == sn:
         print("Correct!")   
-    print(f"The number was: {sn}")
+    print("The number was", sn)
 
 main()
