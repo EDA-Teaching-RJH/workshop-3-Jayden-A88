@@ -10,5 +10,4 @@ def verify(AD, PS, PSI, ADI):
          print("Access Granted")
     else:
         print("Error Access Denied")
-
 main()
